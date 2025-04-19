@@ -41,7 +41,7 @@ cd cv-extractor
 chmod +x run.sh
 ./run.sh
 
-
+```
 Once running, open your browser and visit:  
 **http://localhost:5000**
 
