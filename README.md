@@ -57,8 +57,8 @@ Once running, open your browser and visit:
 
 **Local Setup:**
 - Python 3.9 or newer  
-- Tesseract OCR installed  
-- Ollama installed locally  
+- Tesseract OCR installed  https://github.com/tesseract-ocr/tesseract
+- Ollama installed locally  https://ollama.com/download
 - Minimum 8GB RAM
 
 ---
