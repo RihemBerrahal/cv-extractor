@@ -1,7 +1,7 @@
 # 📄 CV Extractor with Open-Source LLMs
 
 A powerful tool to extract structured data from CVs/resumes using open-source LLMs — LLaMA 3, Mistral, and Phi — via Ollama. The system supports both text-based and scanned PDF files using OCR fallback.
-!(web app_overview.png)
+![Field Performance Comparison](web_ app_overview.png)
 ---
 
 ## ✨ Features
