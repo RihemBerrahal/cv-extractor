@@ -44,38 +44,45 @@ def extract():
         filepath = os.path.join(app.config['UPLOAD_FOLDER'], unique_filename)
         file.save(filepath)
 
-        # Extract text from PDF
-        text = extract_text_from_pdf(filepath)
-        
-        # Save the extracted text for reference
-        text_path = os.path.join(app.config['RESULTS_FOLDER'], f"{unique_filename}_text.txt")
-        with open(text_path, 'w', encoding='utf-8') as f:
-            f.write(text)
-        
-        if process_all:
-            # Process with all models
-            results = process_cv_with_all_models(text)
-        else:
-            # Process with selected model
-            results = {model: call_llm_model(text, model)}
-        
-        # Save results to JSON file
-        result_path = os.path.join(app.config['RESULTS_FOLDER'], f"{unique_filename}_results.json")
-        with open(result_path, 'w') as f:
-            json.dump(results, f, indent=4)
-        
-        return jsonify({
-            'data': results,
-            'filename': unique_filename,
-            'text_path': f"/results/{unique_filename}_text.txt",
-            'result_path': f"/results/{unique_filename}_results.json"
-        }), 200
+        try:
+            # Extract text from PDF
+            text = extract_text_from_pdf(filepath)
+            
+            # Save the extracted text for reference
+            text_path = os.path.join(app.config['RESULTS_FOLDER'], f"{unique_filename}_text.txt")
+            with open(text_path, 'w', encoding='utf-8') as f:
+                f.write(text)
+            
+            if process_all:
+                # Process with all models
+                results = process_cv_with_all_models(text)
+            else:
+                # Process with selected model
+                results = {model: call_llm_model(text, model)}
+            
+            # Save results to JSON file
+            result_path = os.path.join(app.config['RESULTS_FOLDER'], f"{unique_filename}_results.json")
+            with open(result_path, 'w', encoding='utf-8') as f:
+                json.dump(results, f, indent=4, ensure_ascii=False)
+            
+            return jsonify({
+                'data': results,
+                'filename': unique_filename,
+                'text_path': f"/results/{unique_filename}_text.txt",
+                'result_path': f"/results/{unique_filename}_results.json"
+            }), 200
+        except Exception as e:
+            return jsonify({'error': f'Error processing file: {str(e)}'}), 500
 
     return jsonify({'error': 'Invalid file type'}), 400
 
 @app.route('/results/<filename>')
 def results(filename):
     return send_from_directory(app.config['RESULTS_FOLDER'], filename)
+
+@app.route('/health')
+def health():
+    return jsonify({'status': 'ok'}), 200
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000, debug=True)
