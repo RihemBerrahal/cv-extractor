@@ -1,0 +1,24 @@
+=== Ben Ismail Med Aziz ===
+
+Contact: +216 21 438 447 | medaziz.benismail@gmail.com
+Address: Tunis, Tunisie
+LinkedIn: linkedin.com/in/aziz-ben-ismail
+
+=== EDUCATION ===
+Diplôme d'ingénieur en informatique | ESPRIT | 2019-2024
+
+Baccalauréat scientifique | Lycée 2 mars | 2015-2019
+
+=== EXPERIENCE ===
+Ingénieur Full-Stack Web | Mutuelle de l'Armée Nationale | Nov 2024 - Jan 2025
+- Développement d'applications web full-stack
+
+Stage de fin d'études | BeeCoders | Dec 2023 - Nov 2024
+- Développement d'une Application Web pour la Centralisation des Centres de Formation
+
+=== SKILLS ===
+Technical: Java, React, Node.js, Spring Boot, SQL, Docker, Jenkins, Laravel, Git, UI/UX
+Professional: Full-Stack Development, DevOps, Agile Methodologies
+
+=== LANGUAGES ===
+Français (Courant), Anglais (Avancé), Arabe (Native)

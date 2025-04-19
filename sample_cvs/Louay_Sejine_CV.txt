@@ -1,0 +1,26 @@
+=== Louay Sejine ===
+
+Contact: +216 94 472 246 | louay.sejine@esprit.tn
+Address: Bizerte, Tunisie
+LinkedIn: linkedin.com/in/louay-sejine
+
+=== EDUCATION ===
+Cycle d'ingénieur en Informatique | ESPRIT | 2022-Present
+
+Licence en Génie Logiciel et Systèmes d'Informations | Faculté des Sciences de Bizerte | 2019-2022
+
+=== EXPERIENCE ===
+Stage d'ingénieur | I-way Tunisie | Juillet 2024 - Août 2024
+- Contribution au développement de l'application mobile I-santé
+- Intégration d'une solution de gestion de soins médicaux avec Qt
+
+Stage d'immersion | OMMP Bizerte | Juillet 2023 - Août 2023
+- Développement d'un backend de gestion des stagiaires avec Spring Boot
+- Optimisation de la base de données
+
+=== SKILLS ===
+Technical: Dart, Kotlin, Swift, Java, JavaScript, HTML, CSS, Flutter, Android, SwiftUI, React, Spring Boot, .NET
+Professional: Développement mobile, Applications cross-platform, UI/UX Design
+
+=== LANGUAGES ===
+Français (Intermédiaire avancé (B2)), Anglais (Avancé (B2))

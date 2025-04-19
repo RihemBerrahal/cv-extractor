@@ -1,0 +1,31 @@
+=== Elsadkaoui Mohamed Habib ===
+
+Contact: 22725762 | mohamedhabibsadkaoui@gmail.com
+Address: Bizerte, Tunisia
+LinkedIn: linkedin.com/in/mohamed-habib-elsadkaoui
+
+=== EDUCATION ===
+Mastere en Electronique Electrotechnique et Automatique | Faculté des Sciences de Bizerte | 2022-Present
+
+Licence national en Génie Electrique | Institut supérieure des études technologiques de Bizerte | 2019-2022
+
+Baccalauréat en Science expérimentales | Lycée Farhat Hachad Bizerte | 2017-2019
+
+=== EXPERIENCE ===
+Stage de Mémoire de fin d'études | Elsentech | 2023-2024
+- Développement d'une solution d'interlock pour améliorer le processus de fabrication
+- Développement des interfaces python connectés à distance
+- Création d'une base de données SQL pour stockage des données
+- Développement d'une interface web avec Flask
+
+Stage de fin d'études | ELFOULETH | 2022-2023
+- Automatisation d'une machine de pliage de Fer
+- Programmation d'un automate S7-1200
+- Création d'une HMI pour visualiser le processus
+
+=== SKILLS ===
+Technical: Arduino, C++, C, Python, HTML/CSS, Processing/JAVA embarqué, Flask, SQL, TiaPortal, PSIM, TINKER CAD, ISIS, AutoCad
+Professional: Automatique industrielle, Réseaux industriels/API, Conception et simulation
+
+=== LANGUAGES ===
+Français (Courant), Arabe (Native), Anglais (Intermédiaire)

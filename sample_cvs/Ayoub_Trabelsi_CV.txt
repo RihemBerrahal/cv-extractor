@@ -1,0 +1,21 @@
+=== Trabelsi Ayoub ===
+
+Contact: 55 523 017 | Zhana.ayoub@gmail.com
+Address: Zhana Utique Bizerte, 7060
+LinkedIn: linkedin.com/in/ayoub-trabelsi
+
+=== EDUCATION ===
+Licence en ingénierie des systèmes informatique | ISSATSO, SOUSSE | 2021-2025
+Specialization: IoT et systèmes embarqués
+
+Baccalauréat informatique | Lycée Utique | 2020-2021
+
+=== SKILLS ===
+Technical: Python, Java, C, Réseaux, Développement mobile, Développement web
+
+=== LANGUAGES ===
+Arabe (Native), Français (Courant), Anglais (Intermédiaire), Italien (Débutant)
+
+=== CERTIFICATIONS ===
+Cisco Networking Basics | CISCO | 2024
+Cisco Introduction to Packet Tracer | CISCO | 2024

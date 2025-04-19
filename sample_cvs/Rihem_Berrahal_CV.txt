@@ -1,0 +1,31 @@
+=== Rihem Berrahal ===
+
+Contact: +216 95 784 883 | rihem.berrahal@fsb.ucar.tn
+Address: Ariana, Tunisie
+LinkedIn: linkedin.com/in/rihem-berrahal
+
+=== EDUCATION ===
+Master's in Data Science | Faculty of Sciences, Bizerte | 2022-2024
+
+Bachelor's Degree in Software Engineering | Faculty of Sciences, Bizerte | 2019-2022
+
+=== EXPERIENCE ===
+End-of-studies Internship | Agrivision | February 2024 - September 2024
+- Developed intelligent model to analyze plant metrics using computer vision and YOLO
+- Integrated model into website using React and Flask with MongoDB
+
+End-of-studies Internship | Tunisair-Mobile | February 2022 - June 2022
+- Developed mobile application with Flutter for flight tracking
+- Implemented real-time flight status updates
+- Integrated Google Maps for agency locations
+
+=== SKILLS ===
+Technical: Python (numpy, pandas, sklearn, keras, tensorflow), Java, JavaScript, Flask, React, Angular, Spring Boot, Flutter, MongoDB, MySQL, PostgreSQL
+Professional: Machine Learning, Deep Learning, Computer Vision, Data Analysis
+
+=== LANGUAGES ===
+English (Advanced), French (Advanced)
+
+=== CERTIFICATIONS ===
+DP-900: Microsoft Azure Data Fundamentals | Microsoft | 2024
+AZ-900: Microsoft Azure Fundamentals | Microsoft | 2023

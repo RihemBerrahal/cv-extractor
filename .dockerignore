@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+
+# Editor folders
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Uploads and results (if temporary)
+uploads/
+results/
+
+# Jupyter / notebooks
+*.ipynb_checkpoints
+*.ipynb
+
+# Logs
+*.log

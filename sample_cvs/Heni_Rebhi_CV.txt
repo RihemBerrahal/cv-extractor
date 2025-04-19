@@ -1,0 +1,26 @@
+=== Heni Rebhi ===
+
+Contact: +216 56 084 030 | heni.rebhi@esprit.tn
+Address: Bizerte, Tunisie
+LinkedIn: linkedin.com/in/heni-rebhi
+
+=== EDUCATION ===
+Cycle d'ingénieur en informatique | ESPRIT | 2022-Present
+
+Licence en Génie Éléctrique | ISET Nabeul | 2019-2022
+
+=== EXPERIENCE ===
+Stage d'immersion en entreprise | SAMM AUTOMATION | Juillet 2023 - Août 2023
+- Développement d'un site web de gestion des réclamations des ouvriers
+- Technologies: PHP, Bootstrap
+
+Stage de fin d'études | RAI: Relais Et Automatismes Industriels | Février 2022 - Juin 2022
+- Mise en place d'un banc de test pour câbles électroniques
+- Intégration d'un automate programmable et interface HMI
+
+=== SKILLS ===
+Technical: C, C#, Java, JavaScript, Python, HTML, CSS, Android, Spring Boot, .NET, Arduino, TIA Portal, STM32, ESP32, Raspberry Pi
+Professional: Électronique et automatisation, Microcontrôleurs, RTOS
+
+=== LANGUAGES ===
+Français (Intermédiaire avancé (B2)), Anglais (Intermédiaire (B1))

@@ -1,0 +1,10 @@
+flask
+pdfminer.six
+PyMuPDF
+pytesseract
+pillow
+pandas
+matplotlib
+scikit-learn
+requests
+

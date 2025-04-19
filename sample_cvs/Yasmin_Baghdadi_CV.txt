@@ -1,0 +1,24 @@
+=== Baghdadi Yasmin ===
+
+Contact: +216 20309699 | yasminbaghdadi22@gmail.com
+Address: Nabeul, Tunisie
+LinkedIn: linkedin.com/in/yassmin-baghdadi
+
+=== EDUCATION ===
+Licence en Ingénierie des Systèmes Informatiques | Faculté des Sciences - Sfax | 2022-Present
+Specialization: Internet des objets et systèmes embarqués
+
+Baccalauréat en Sciences Expérimentales | Lycée 2 Mars 1934 - Korba | 2021-2022
+
+=== EXPERIENCE ===
+Stage d'initiation | Designet Web Agency | Juillet 2023 - Août 2023
+- Conception et développement d'une plateforme de gestion de stock
+- Intégration d'un système d'authentification sécurisé
+- Technologies: Laravel, MySQL, HTML/CSS/JavaScript
+
+=== SKILLS ===
+Technical: Java, Python, C++, JavaScript, Kotlin, HTML, CSS, PHP, XML, VHDL, Laravel, Spring Boot, Angular, Arduino, Raspberry Pi
+Professional: Machine Learning, Big Data, IoT Development, Embedded Systems
+
+=== LANGUAGES ===
+Arabe (Langue maternelle), Français (Courant), Anglais (Intermédiaire)

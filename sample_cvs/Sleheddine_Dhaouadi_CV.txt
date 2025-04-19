@@ -1,0 +1,26 @@
+=== Sleheddine Dhaouadi ===
+
+Contact: +216 55 611 443 | sieheddine.dhaouadi@esprit.tn
+Address: Bizerte, Tunisie
+LinkedIn: linkedin.com/in/dhaouadi-sieheddine
+
+=== EDUCATION ===
+Cycle d'ingénieur en informatique | ESPRIT | 2022-2025
+
+Licence en Technologies de l'Information et de Communication | Faculté des Sciences, Bizerte | 2019-2022
+
+=== EXPERIENCE ===
+Stage d'ingénieur | NeoLedge | Juillet 2024 - Septembre 2024
+- Déploiement et configuration de Zabbix pour surveillance des indicateurs de performance
+- Intégration à l'infrastructure existante pour surveillance continue
+
+Stage d'immersion en entreprise | Playpals Studio | Juin 2023 - Juillet 2023
+- Développement d'un jeu sur la plateforme ROBLOX
+- Technologies: Blender, MIXAMO, LUA
+
+=== SKILLS ===
+Technical: PFSense, OpenSense, IDS/IPS, Wazuh, ELK Stack, IRIS, Zabbix, Java, JavaScript, HTML, CSS, Python, C#, Spring Boot, .NET
+Professional: Cybersécurité, Surveillance réseau, Gestion des risques
+
+=== LANGUAGES ===
+Français (Courant (B2)), Anglais (Courant (B2))

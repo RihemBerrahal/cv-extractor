@@ -1,0 +1,25 @@
+=== Salah Ben Thabet ===
+
+Contact: +216 58 401 835 | salah.benthabet@esprit.tn
+Address: Bizerte, Tunisie
+LinkedIn: linkedin.com/in/salah-ben-thabet
+
+=== EDUCATION ===
+Cycle d'ingénieur en informatique | ESPRIT | 2022-Present
+
+Licence en Technologies de l'Informatique | ISET Bizerte | 2019-2022
+
+=== EXPERIENCE ===
+Stage d'ingénieur | Attijari Bank | Juillet 2024 - Août 2024
+- Mise en place d'une solution SIEM en intégrant ELK avec Wazuh et Suricata
+
+Stage de fin d'études | EL FOULADH | Février 2022 - Juin 2022
+- Utilisation d'une carte Raspberry Pi pour création d'un système de supervision embarqué
+- Intégration de technologies ESP32 et Node-RED
+
+=== SKILLS ===
+Technical: ELK Stack, Wazuh, PFSense, Spring Boot, .NET, Java, Python, Nmap, MISP
+Professional: Cybersécurité, Threat Hunting, Security Monitoring
+
+=== LANGUAGES ===
+Français (Intermédiaire avancé (B2)), Anglais (Intermédiaire avancé (B2))
