@@ -1,7 +1,8 @@
 # 📄 CV Extractor with Open-Source LLMs
 
 A powerful tool to extract structured data from CVs/resumes using open-source LLMs — LLaMA 3, Mistral, and Phi — via Ollama. The system supports both text-based and scanned PDF files using OCR fallback.
-![web app_overview](web app_overview.png)
+![Overvuiew](web_app_overview.png)
+
 ---
 
 ## ✨ Features
@@ -56,8 +57,8 @@ Once running, open your browser and visit:
 
 **Local Setup:**
 - Python 3.9 or newer  
-- Tesseract OCR installed  
-- Ollama installed locally  
+- Tesseract OCR installed  https://github.com/tesseract-ocr/tesseract
+- Ollama installed locally  https://ollama.com/download
 - Minimum 8GB RAM
 
 ---
