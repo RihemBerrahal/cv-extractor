@@ -16,17 +16,31 @@ A powerful tool to extract structured data from CVs/resumes using open-source LL
 
 ## 🚀 Getting Started
 
-### Option 1: Docker Installation (Recommended)
 
-- Clone the repository  
-- Run the provided Docker script to launch the app  
-- Automatically sets up containers, pulls LLM models, and starts the web server
+### 🐳 Option 1: Docker Installation (Recommended)
 
+1. Clone the repository  
+2. Run the provided Docker script to launch the app  
+3. Automatically sets up containers, pulls LLM models, and starts the web server
+
+```bash
+git clone https://github.com/your-repo/cv-extractor.git
+cd cv-extractor
+chmod +x rundocker.sh
+./rundocker.sh
+
+```
 ### Option 2: Local Installation
 
 - Clone the repository  
 - Run the local setup script to install dependencies and check for Tesseract and Ollama  
 - Downloads required models and starts the app locally
+```bash
+git clone https://github.com/your-repo/cv-extractor.git
+cd cv-extractor
+chmod +x run.sh
+./run.sh
+
 
 Once running, open your browser and visit:  
 **http://localhost:5000**
