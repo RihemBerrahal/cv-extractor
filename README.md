@@ -24,7 +24,7 @@ A powerful tool to extract structured data from CVs/resumes using open-source LL
 3. Automatically sets up containers, pulls LLM models, and starts the web server
 
 ```bash
-git clone https://github.com/your-repo/cv-extractor.git
+git clone https://github.com/RihemBerrahal/cv-extractor.git
 cd cv-extractor
 chmod +x rundocker.sh
 ./rundocker.sh
@@ -36,7 +36,7 @@ chmod +x rundocker.sh
 - Run the local setup script to install dependencies and check for Tesseract and Ollama  
 - Downloads required models and starts the app locally
 ```bash
-git clone https://github.com/your-repo/cv-extractor.git
+git clone https://github.com/RihemBerrahal/cv-extractor.git
 cd cv-extractor
 chmod +x run.sh
 ./run.sh
